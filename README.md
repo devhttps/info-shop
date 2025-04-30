@@ -169,4 +169,4 @@ Para suporte, envie um email para seu-email@exemplo.com ou abra uma issue no Git
 
 ---
 
-Desenvolvido com ❤️ por [Seu Nome]
+Desenvolvido com ❤️ por [@JamersonNAscimento]
